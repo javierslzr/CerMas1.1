@@ -1,0 +1,27 @@
+.footer-img {
+  width: 100%;
+  position: absolute;
+}
+.contact {
+  display: flex;
+  z-index: 1;
+  color: #ffffff;
+  font-size: 1.4rem;
+  position: relative;
+  margin-top: 4%;
+  margin-bottom: 4%;
+}
+
+a {
+  color: #ffffff;
+}
+
+a:hover {
+  color: #f05a28;
+  text-decoration: none;
+}
+
+.footer {
+  width: 100%;
+  display: flex;
+}

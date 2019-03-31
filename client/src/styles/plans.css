@@ -1,0 +1,49 @@
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  text-align: center;
+  background-color: #f05a28;
+  color: black;
+  margin: 2rem;
+  padding: 1rem;
+  width: 27%;
+  display: inline-block;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 #8d8d8d;
+}
+
+.plan-btn {
+  display: inline-block;
+  border: 4px solid black;
+  padding: 0.5rem;
+  color: black !important;
+  background-color: #f05a28;
+}
+
+.plan-btn a {
+  color: black !important;
+  background-color: #f05a28;
+}
+
+.plan-btn:hover {
+  box-shadow: 0 8px 16px 0 rgb(155, 52, 5);
+  color: white !important;
+  border: 4px solid white;
+}
+
+hr {
+  border: 0.05rem solid black;
+}
+
+h1,
+h4 {
+  color: #ffffff;
+  text-shadow: 2px 2px 5px #000000;
+}
+
+.plans-container {
+  margin: 0 auto;
+  height: auto;
+}

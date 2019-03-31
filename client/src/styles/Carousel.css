@@ -1,0 +1,29 @@
+.carousel {
+  z-index: 0;
+}
+
+h3,
+p {
+  color: #ffffff;
+  text-shadow: 2px 2px 1px black;
+}
+
+.carousel-control-next-icon {
+  text-shadow: 0.5rem 0.5rem 0.8rem black;
+}
+
+.carousel-container {
+  width: 100%;
+  margin-right: 0px;
+  margin-left: 0px;
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+.home {
+  padding-top: 5%;
+}
+.carousel-caption {
+  background: rgba(247, 93, 4, 0.692);
+  border-radius: 5rem;
+}

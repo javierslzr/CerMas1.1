@@ -1,0 +1,80 @@
+.functionAddBtn {
+  width: auto;
+  border-radius: 0.3rem;
+  border: 1rem;
+  background-color: #f05a28 !important;
+  border-right-color: #a8330c !important;
+  border-left-color: #f5754b !important;
+  border-bottom-color: #a8330c !important;
+  border-top-color: #f5754b !important;
+  margin: 0.5rem;
+  font-size: 1.3rem;
+  padding: 0.4rem;
+  color: #000 !important;
+  display: inline-block;
+}
+
+.functionAddBtn:hover {
+  color: white !important;
+  background-color: #f05a28;
+}
+
+.functionAddBtn:active {
+  color: white !important;
+  background-color: #f05a28;
+  border-color: #a8330c;
+}
+
+.functionGetAllBtn {
+  width: auto;
+  border-radius: 0.3rem;
+  border: 1rem;
+  background-color: #f05a28 !important;
+  border-right-color: #a8330c !important;
+  border-left-color: #f5754b !important;
+  border-bottom-color: #a8330c !important;
+  border-top-color: #f5754b !important;
+  margin: 0 auto;
+  font-size: 1.3rem;
+  padding: 0.4rem;
+  color: #000 !important;
+  display: inline-block;
+}
+
+.functionGetAllBtn:hover {
+  color: white !important;
+  background-color: #f05a28;
+}
+
+.functionGetAllBtn:active {
+  color: white !important;
+  background-color: #f05a28;
+  border-color: #a8330c;
+}
+
+.table {
+  background-color: #f05a28;
+  color: #000;
+  margin: 0 auto;
+  border-radius: 0.3rem;
+  width: 90%;
+  border: 0.2rem solid #f05a28 !important;
+  border-collapse: initial;
+  padding: 0.8rem;
+}
+
+.table th,
+td {
+  border: 0.2rem solid #000000 !important;
+}
+
+.GetAllContainer {
+  margin: 0 auto;
+  align-content: center;
+  display: contents;
+}
+
+.AddContainer {
+  display: inline-block;
+  margin: 0 auto;
+}

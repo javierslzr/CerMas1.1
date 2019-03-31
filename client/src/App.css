@@ -1,0 +1,15 @@
+.setup {
+  background-image: linear-gradient(
+    to right,
+    rgb(14, 14, 14),
+    rgb(105, 105, 105),
+    rgb(14, 14, 14)
+  );
+  background-size: cover;
+  font-family: "Katahdin Round", Arial, Helvetica, sans-serif;
+}
+
+@font-face {
+  font-family: Katahdin Round;
+  src: url(../src/styles/KatahdinRound.otf);
+}
